@@ -1,0 +1,3 @@
+hai
+this is shahrukh
+this is my practice in git
