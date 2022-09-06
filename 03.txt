@@ -1,4 +1,2 @@
 haii
-im learning rebase
-and
-git revert
+iam adding few  lines of statement to chech
